@@ -1,0 +1,4 @@
+- What is the difference between ***var*** and ***let***? Var is not block scoped, and let is block scoped and can not be redeclared.
+- What is the difference between **var** and ***const***? Const can't be reassigned or redeclared and is block-scoped.
+- What is the difference between let and const? Let can be reassigned, const can not.
+- What is hoisting? Visualizing order of using vars being compiled/run first. Can not hoist let and const variables.
